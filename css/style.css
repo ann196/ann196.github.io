@@ -1,0 +1,43 @@
+.header {
+    height: 150px;
+    background-color: #81ecec;
+}
+.content {
+    min-height: 750px;
+    background-color: #dfe6e9;
+    height: auto;
+    display: block;
+}
+ul.links {
+    margin: auto;
+    position: relative;
+    margin-left: 192px;
+    float: right;
+}
+.link {
+    float: left;
+    display: block;
+    width: 200px;
+    background: #00cec9;
+    margin-left: 50px;
+    height: 65px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 30px;
+    font-size: 17pt;
+}
+.virsh {
+    min-width: 100px;
+    max-width: 400px;
+    height: auto;
+    float: left;
+    margin: 75px;
+}
+body {
+    margin: 0px;
+    background-color: #dfe6e9;
+}
+.used{
+	color: #2d3436;
+}
